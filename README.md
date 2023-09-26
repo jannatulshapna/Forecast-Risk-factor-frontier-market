@@ -11,7 +11,7 @@ Forecasting the risk factor of the financial frontier markets has always been a 
 
 **Architecture**
 
- ![Framework](./images1/fig1.png)
+ ![Framework](./images/fig1.png)
 
 
 **Paper Link**
